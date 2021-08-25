@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cadu/CLionProjects/lock/main.cpp
+atomic
+-
+thread
+-
+vector
+-
+iostream
+-
+cmath
+-
+

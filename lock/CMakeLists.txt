@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20)
+project(lock)
+set(CMAKE_CXX_STANDARD 11)
+add_executable(lock main.cpp)
+TARGET_LINK_LIBRARIES( lock pthread)

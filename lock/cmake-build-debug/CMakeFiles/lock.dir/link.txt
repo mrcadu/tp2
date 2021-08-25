@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lock.dir/main.cpp.o -o lock  -lpthread 
